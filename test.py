@@ -16,4 +16,4 @@ try:
     
     print("\nFungerar!")
 except Exception as e:
-    print(f"\nError occurred: {e}")
+    print(f"\nError occurred...WHAT THE: {e}")
