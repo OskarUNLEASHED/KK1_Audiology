@@ -1,4 +1,4 @@
-﻿# Audiologic Analysis
+﻿# Audiological Analysis
 Analysis written by Oskar Gyllenör. Audiologist, Software Test Engineer and rookie AI Software Engineer.
 
 ## About the Dataset
